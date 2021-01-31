@@ -1,0 +1,39 @@
+{
+
+  "QA1": [
+    {
+      "answer": [ "opta", "optb", "optc", "optd" ],
+      "question": "this number one"
+    },
+    {
+      "question": "this number two",
+      "answer": [ "opta", "optb", "optc", "optd" ]
+    },
+    {
+      "question": "this number three",
+      "answer": [ "opta", "optb", "optc", "optd" ]
+    }
+  ],
+  "User": [
+    {
+      "name": "RAY",
+      "answer": [ "opt3", "opt2", "opt3", "opt1" ]
+      
+    },
+    {
+      "name": "TOM",
+      "answer": [ "opt4", "opt1", "opt1", "opt3" ]
+
+    },
+    {
+      "name": "LUFFY",
+      "answer": [ "opt1", "opt1", "opt4", "opt4" ]
+    },
+    {
+      "name": "SANAKA",
+      "answer": [ "opt4", "opt4", "opt3", "opt3" ]
+    }
+  ]
+
+
+}
